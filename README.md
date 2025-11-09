@@ -1,12 +1,44 @@
-# React + Vite
+## 🧠 Smart Notes App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Notes App built using **React**, **Tailwind CSS**, and **Framer Motion** — allowing users to create, delete, and persist notes with **localStorage**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Features  
+✅ Add, view, and delete notes easily  
+✅ Automatically saves notes in localStorage  
+✅ Fully responsive design (mobile → desktop)  
+✅ Animated UI using Framer Motion  
+✅ Minimal and modern interface  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠️ Tech Stack  
+- **React.js**  
+- **Tailwind CSS**  
+- **Framer Motion**  
+- **Lucide Icons**  
+- **LocalStorage API**
+
+---
+
+### ⚙️ Installation  
+
+```bash
+# Clone the repository
+git clone https://github.com/ManishVishwakarma9970/my-notes-keeper.git
+
+# Navigate to the folder
+cd my-notes-keeper
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
+
+
+
+❤️ Created With Love
+
+Made by Manish Vishwakarma 💛
